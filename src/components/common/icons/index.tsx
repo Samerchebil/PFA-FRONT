@@ -1,0 +1,10 @@
+export { default as EyeIcon } from "./Eye";
+export { default as EyeOffIcon } from "./EyeOff";
+export { default as CalendarIcon } from "./Calender";
+export { default as MenuIcon } from "./Menu";
+export { default as LocationIcon } from "./Location";
+export { default as PositionIcon } from "./Position";
+export { default as HomeIcon } from "./Home";
+export { default as CompassIcon } from "./Compass";
+export { default as RecycleIcon } from "./Recycle";
+export { QrCodeSm as QrCodeSmIcon, QrCode as QrCodeIcon } from "./QRcode";
